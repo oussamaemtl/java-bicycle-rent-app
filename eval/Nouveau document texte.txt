@@ -1,0 +1,765 @@
+User 1 rent Bike 11 (ELECTRIC) on Station 1
+User 1 is on Bike
+User 1 returned bike 11 (ELECTRIC) on Station 10
+User 1 has now a total amount of charges of : 3
+User 2 rent Bike 4 (ELECTRIC) on Station 2
+User 2 is on Bike
+Cost of Ride : 1
+
+User 2 returned bike 4 (ELECTRIC) on Station 9
+User 2 has now a total amount of charges of : 1
+User 3 rent Bike 9 (ELECTRIC) on Station 1
+User 3 is on Bike
+Cost of Ride : 4
+
+User 3 returned bike 9 (ELECTRIC) on Station 8
+User 3 has now a total amount of charges of : 4
+------------------------------------------------------
+User (1) is not on a bike 
+
+------------------------------------------------------
+User (2) is not on a bike 
+
+------------------------------------------------------
+User (3) is not on a bike 
+
+------------------------------------------------------
+User (4) is not on a bike 
+
+------------------------------------------------------
+User ID : 1
+Card type : VLIBRE
+Number of rides : 1
+Total time spent (min) 97
+Total amount of Charges : 3.0
+Total time earned : 0
+Last Location : (3.5050670868112213,2.471537738009483)
+Credit-time Balance :0
+------------------------------------------------------
+Station 1
+Type : Plus
+Status : Online
+Total Capacity : 10
+Free Parking slots : 5
+Available electric bycicles : 1
+Available Mechanic bycicles : 4
+Rents operations : 2
+Return operations : 0
+Total Operations : 2
+Total Average Occupation since last use : 0.7
+Localisation : (3.4863334584458703,0.6806705718622799)
+
+------------------------------------------------------
+User (1) is not on a bike 
+
+------------------------------------------------------
+User (2) is not on a bike 
+
+------------------------------------------------------
+User (3) is not on a bike 
+
+------------------------------------------------------
+User (4) is not on a bike 
+
+------------------------------------------------------
+Station 1 Status : Online
+Station1 is 50.0% full
+
+------------------------------------------------------
+Station 2 Status : Online
+Station2 is 40.0% full
+
+------------------------------------------------------
+Station 3 Status : Online
+Station3 is 100.0% full
+
+------------------------------------------------------
+Station 4 Status : Online
+Station4 is 90.0% full
+
+------------------------------------------------------
+Station 5 Status : Online
+Station5 is 40.0% full
+
+------------------------------------------------------
+Station 6 Status : Online
+Station6 is 70.0% full
+
+------------------------------------------------------
+Station 7 Status : Online
+Station7 is 100.0% full
+
+------------------------------------------------------
+Station 8 Status : Online
+Station8 is 90.0% full
+
+------------------------------------------------------
+Station 9 Status : Online
+Station9 is 90.0% full
+
+------------------------------------------------------
+Station 10 Status : Online
+Station10 is 80.0% full
+
+------------------------------------------------------
+Station 1
+Type : Plus
+Status : Online
+Total Capacity : 10
+Free Parking slots : 5
+Available electric bycicles : 1
+Available Mechanic bycicles : 4
+Rents operations : 2
+Return operations : 0
+Total Operations : 2
+Total Average Occupation since last use : 0.7
+Localisation : (3.4863334584458703,0.6806705718622799)
+
+------------------------------------------------------
+Station 2
+Type : Plus
+Status : Online
+Total Capacity : 10
+Free Parking slots : 6
+Available electric bycicles : 1
+Available Mechanic bycicles : 3
+Rents operations : 1
+Return operations : 0
+Total Operations : 1
+Total Average Occupation since last use : 0.5
+Localisation : (0.5877133569098318,2.191744129885072)
+
+------------------------------------------------------
+Station 3
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 0
+Available electric bycicles : 5
+Available Mechanic bycicles : 5
+Rents operations : 0
+Return operations : 0
+Total Operations : 0
+This station has never been used. Current occupation rate : 1.0
+Localisation : (1.4957346529869184,2.785408272207553)
+
+------------------------------------------------------
+Station 4
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 1
+Available electric bycicles : 1
+Available Mechanic bycicles : 8
+Rents operations : 0
+Return operations : 0
+Total Operations : 0
+This station has never been used. Current occupation rate : 0.9
+Localisation : (3.0603886826679108,0.7736916962164595)
+
+------------------------------------------------------
+Station 5
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 6
+Available electric bycicles : 2
+Available Mechanic bycicles : 2
+Rents operations : 0
+Return operations : 0
+Total Operations : 0
+This station has never been used. Current occupation rate : 0.4
+Localisation : (3.1313602003241487,3.461578779683264)
+
+------------------------------------------------------
+Station 6
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 3
+Available electric bycicles : 1
+Available Mechanic bycicles : 6
+Rents operations : 0
+Return operations : 0
+Total Operations : 0
+This station has never been used. Current occupation rate : 0.7
+Localisation : (2.4453585181894737,1.8849756240846913)
+
+------------------------------------------------------
+Station 7
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 0
+Available electric bycicles : 1
+Available Mechanic bycicles : 9
+Rents operations : 0
+Return operations : 0
+Total Operations : 0
+This station has never been used. Current occupation rate : 1.0
+Localisation : (1.4892222902706003,0.048742117069028534)
+
+------------------------------------------------------
+Station 8
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 1
+Available electric bycicles : 1
+Available Mechanic bycicles : 8
+Rents operations : 0
+Return operations : 1
+Total Operations : 1
+Total Average Occupation since last use : 0.7
+Localisation : (2.032398570468661,1.115746225945479)
+
+------------------------------------------------------
+Station 9
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 1
+Available electric bycicles : 4
+Available Mechanic bycicles : 5
+Rents operations : 0
+Return operations : 1
+Total Operations : 1
+Total Average Occupation since last use : 0.7
+Localisation : (3.866311422917481,3.2262138252589487)
+
+------------------------------------------------------
+Station 10
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 2
+Available electric bycicles : 5
+Available Mechanic bycicles : 3
+Rents operations : 0
+Return operations : 1
+Total Operations : 1
+Total Average Occupation since last use : 0.6
+Localisation : (3.5050670868112213,2.471537738009483)
+
+------------------------------------------------------
+User ID : 1
+Card type : VLIBRE
+Number of rides : 1
+Total time spent (min) 97
+Total amount of Charges : 3.0
+Total time earned : 0
+Last Location : (3.5050670868112213,2.471537738009483)
+Credit-time Balance :0
+------------------------------------------------------
+User ID :2
+Card type : VMAX
+Number of rides : 1
+Total time spent (min) 97
+Total amount of Charges : 1.0
+Last Location : (3.866311422917481,3.2262138252589487)
+
+------------------------------------------------------
+User ID :3
+Card type : NONE
+Number of rides : 1
+Total time spent (min) 97
+Total amount of Charges : 4.0
+Last Location : (2.032398570468661,1.115746225945479)
+
+------------------------------------------------------
+User ID : 4
+Card type : VLIBRE
+Number of rides : 0
+Total time spent (min) 0
+Total amount of Charges : 0.0
+Total time earned : 0
+Last Location : (0.0,0.0)
+Credit-time Balance :0
+User 4 is going to Station 5
+User 4 rent Bike 1 (ELECTRIC) on Station 7
+User 4 is on Bike
+User 4 returned bike 1 (ELECTRIC) on Station 5
+User 4 has now a total amount of charges of : 1
+User 1 is going to Station 5
+User 1 rent Bike 4 (ELECTRIC) on Station 9
+User 1 is on Bike
+User 1 returned bike 4 (ELECTRIC) on Station 5
+User 1 has now a total amount of charges of : 10
+User 2 is going to Station 5
+User 2 rent Bike 49 (MECHANIC) on Station 3
+User 2 is on Bike
+Cost of Ride : 6
+
+User 2 returned bike 49 (MECHANIC) on Station 5
+User 2 has now a total amount of charges of : 7
+User 3 is going to Station 7
+User 3 rent Bike 43 (MECHANIC) on Station 3
+User 3 is on Bike
+Cost of Ride : 2
+
+User 3 returned bike 43 (MECHANIC) on Station 7
+User 3 has now a total amount of charges of : 6
+Average Occupation ratio in Station 1 during [53,410] : 0.7
+Average Occupation ratio in Station 4 during [53,410] : 0.9
+Average Occupation ratio in Station 7 during [53,410] : 0.8411764705882353
+Average Occupation ratio in Station 2 during [53,410] : 0.5
+Average Occupation ratio in Station 8 during [53,410] : 0.7873949579831933
+Average Occupation ratio in Station 10 during [53,410] : 0.6873949579831933
+------------------------------------------------------
+Station 1
+Type : Plus
+Status : Online
+Total Capacity : 10
+Free Parking slots : 5
+Available electric bycicles : 1
+Available Mechanic bycicles : 4
+Rents operations : 2
+Return operations : 0
+Total Operations : 2
+Total Average Occupation since last use : 0.7
+Localisation : (3.4863334584458703,0.6806705718622799)
+
+------------------------------------------------------
+Station 2
+Type : Plus
+Status : Online
+Total Capacity : 10
+Free Parking slots : 6
+Available electric bycicles : 1
+Available Mechanic bycicles : 3
+Rents operations : 1
+Return operations : 0
+Total Operations : 1
+Total Average Occupation since last use : 0.5
+Localisation : (0.5877133569098318,2.191744129885072)
+
+------------------------------------------------------
+Station 3
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 2
+Available electric bycicles : 5
+Available Mechanic bycicles : 3
+Rents operations : 2
+Return operations : 0
+Total Operations : 2
+Total Average Occupation since last use : 0.990909090909091
+Localisation : (1.4957346529869184,2.785408272207553)
+
+------------------------------------------------------
+Station 4
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 1
+Available electric bycicles : 1
+Available Mechanic bycicles : 8
+Rents operations : 0
+Return operations : 0
+Total Operations : 0
+This station has never been used. Current occupation rate : 0.9
+Localisation : (3.0603886826679108,0.7736916962164595)
+
+------------------------------------------------------
+Station 5
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 3
+Available electric bycicles : 4
+Available Mechanic bycicles : 3
+Rents operations : 0
+Return operations : 3
+Total Operations : 3
+Total Average Occupation since last use : 0.19483333333333336
+Localisation : (3.1313602003241487,3.461578779683264)
+
+------------------------------------------------------
+Station 6
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 3
+Available electric bycicles : 1
+Available Mechanic bycicles : 6
+Rents operations : 0
+Return operations : 0
+Total Operations : 0
+This station has never been used. Current occupation rate : 0.7
+Localisation : (2.4453585181894737,1.8849756240846913)
+
+------------------------------------------------------
+Station 7
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 0
+Available electric bycicles : 0
+Available Mechanic bycicles : 10
+Rents operations : 1
+Return operations : 1
+Total Operations : 2
+Total Average Occupation since last use : 0.832258064516129
+Localisation : (1.4892222902706003,0.048742117069028534)
+
+------------------------------------------------------
+Station 8
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 1
+Available electric bycicles : 1
+Available Mechanic bycicles : 8
+Rents operations : 0
+Return operations : 1
+Total Operations : 1
+Total Average Occupation since last use : 0.7
+Localisation : (2.032398570468661,1.115746225945479)
+
+------------------------------------------------------
+Station 9
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 2
+Available electric bycicles : 3
+Available Mechanic bycicles : 5
+Rents operations : 1
+Return operations : 1
+Total Operations : 2
+Total Average Occupation since last use : 0.7673333333333333
+Localisation : (3.866311422917481,3.2262138252589487)
+
+------------------------------------------------------
+Station 10
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 2
+Available electric bycicles : 5
+Available Mechanic bycicles : 3
+Rents operations : 0
+Return operations : 1
+Total Operations : 1
+Total Average Occupation since last use : 0.6
+Localisation : (3.5050670868112213,2.471537738009483)
+
+------------------------------------------------------
+User ID : 1
+Card type : VLIBRE
+Number of rides : 2
+Total time spent (min) 297
+Total amount of Charges : 10.0
+Total time earned : 0
+Last Location : (3.1313602003241487,3.461578779683264)
+Credit-time Balance :0
+------------------------------------------------------
+User ID :2
+Card type : VMAX
+Number of rides : 2
+Total time spent (min) 497
+Total amount of Charges : 7.0
+Last Location : (3.1313602003241487,3.461578779683264)
+
+------------------------------------------------------
+User ID :3
+Card type : NONE
+Number of rides : 2
+Total time spent (min) 187
+Total amount of Charges : 6.0
+Last Location : (1.4892222902706003,0.048742117069028534)
+
+------------------------------------------------------
+User ID : 4
+Card type : VLIBRE
+Number of rides : 1
+Total time spent (min) 31
+Total amount of Charges : 1.0
+Total time earned : 0
+Last Location : (3.1313602003241487,3.461578779683264)
+Credit-time Balance :0
+------------------------------------------------------
+Stations sorted by number of time they have been used
+------------------------------------------------------
+Station 4
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 1
+Available electric bycicles : 1
+Available Mechanic bycicles : 8
+Rents operations : 0
+Return operations : 0
+Total Operations : 0
+This station has never been used. Current occupation rate : 0.9
+Localisation : (3.0603886826679108,0.7736916962164595)
+
+------------------------------------------------------
+Station 6
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 3
+Available electric bycicles : 1
+Available Mechanic bycicles : 6
+Rents operations : 0
+Return operations : 0
+Total Operations : 0
+This station has never been used. Current occupation rate : 0.7
+Localisation : (2.4453585181894737,1.8849756240846913)
+
+------------------------------------------------------
+Station 8
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 1
+Available electric bycicles : 1
+Available Mechanic bycicles : 8
+Rents operations : 0
+Return operations : 1
+Total Operations : 1
+Total Average Occupation since last use : 0.7
+Localisation : (2.032398570468661,1.115746225945479)
+
+------------------------------------------------------
+Station 2
+Type : Plus
+Status : Online
+Total Capacity : 10
+Free Parking slots : 6
+Available electric bycicles : 1
+Available Mechanic bycicles : 3
+Rents operations : 1
+Return operations : 0
+Total Operations : 1
+Total Average Occupation since last use : 0.5
+Localisation : (0.5877133569098318,2.191744129885072)
+
+------------------------------------------------------
+Station 10
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 2
+Available electric bycicles : 5
+Available Mechanic bycicles : 3
+Rents operations : 0
+Return operations : 1
+Total Operations : 1
+Total Average Occupation since last use : 0.6
+Localisation : (3.5050670868112213,2.471537738009483)
+
+------------------------------------------------------
+Station 7
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 0
+Available electric bycicles : 0
+Available Mechanic bycicles : 10
+Rents operations : 1
+Return operations : 1
+Total Operations : 2
+Total Average Occupation since last use : 0.832258064516129
+Localisation : (1.4892222902706003,0.048742117069028534)
+
+------------------------------------------------------
+Station 3
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 2
+Available electric bycicles : 5
+Available Mechanic bycicles : 3
+Rents operations : 2
+Return operations : 0
+Total Operations : 2
+Total Average Occupation since last use : 0.990909090909091
+Localisation : (1.4957346529869184,2.785408272207553)
+
+------------------------------------------------------
+Station 1
+Type : Plus
+Status : Online
+Total Capacity : 10
+Free Parking slots : 5
+Available electric bycicles : 1
+Available Mechanic bycicles : 4
+Rents operations : 2
+Return operations : 0
+Total Operations : 2
+Total Average Occupation since last use : 0.7
+Localisation : (3.4863334584458703,0.6806705718622799)
+
+------------------------------------------------------
+Station 9
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 2
+Available electric bycicles : 3
+Available Mechanic bycicles : 5
+Rents operations : 1
+Return operations : 1
+Total Operations : 2
+Total Average Occupation since last use : 0.7673333333333333
+Localisation : (3.866311422917481,3.2262138252589487)
+
+------------------------------------------------------
+Station 5
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 3
+Available electric bycicles : 4
+Available Mechanic bycicles : 3
+Rents operations : 0
+Return operations : 3
+Total Operations : 3
+Total Average Occupation since last use : 0.19483333333333336
+Localisation : (3.1313602003241487,3.461578779683264)
+
+------------------------------------------------------
+Stations sorted by thier occupation rate
+------------------------------------------------------
+Station 5
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 3
+Available electric bycicles : 4
+Available Mechanic bycicles : 3
+Rents operations : 0
+Return operations : 3
+Total Operations : 3
+Total Average Occupation since last use : 0.19483333333333336
+Localisation : (3.1313602003241487,3.461578779683264)
+
+------------------------------------------------------
+Station 2
+Type : Plus
+Status : Online
+Total Capacity : 10
+Free Parking slots : 6
+Available electric bycicles : 1
+Available Mechanic bycicles : 3
+Rents operations : 1
+Return operations : 0
+Total Operations : 1
+Total Average Occupation since last use : 0.5
+Localisation : (0.5877133569098318,2.191744129885072)
+
+------------------------------------------------------
+Station 1
+Type : Plus
+Status : Online
+Total Capacity : 10
+Free Parking slots : 5
+Available electric bycicles : 1
+Available Mechanic bycicles : 4
+Rents operations : 2
+Return operations : 0
+Total Operations : 2
+Total Average Occupation since last use : 0.7
+Localisation : (3.4863334584458703,0.6806705718622799)
+
+------------------------------------------------------
+Station 10
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 2
+Available electric bycicles : 5
+Available Mechanic bycicles : 3
+Rents operations : 0
+Return operations : 1
+Total Operations : 1
+Total Average Occupation since last use : 0.6
+Localisation : (3.5050670868112213,2.471537738009483)
+
+------------------------------------------------------
+Station 6
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 3
+Available electric bycicles : 1
+Available Mechanic bycicles : 6
+Rents operations : 0
+Return operations : 0
+Total Operations : 0
+This station has never been used. Current occupation rate : 0.7
+Localisation : (2.4453585181894737,1.8849756240846913)
+
+------------------------------------------------------
+Station 9
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 2
+Available electric bycicles : 3
+Available Mechanic bycicles : 5
+Rents operations : 1
+Return operations : 1
+Total Operations : 2
+Total Average Occupation since last use : 0.7673333333333333
+Localisation : (3.866311422917481,3.2262138252589487)
+
+------------------------------------------------------
+Station 8
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 1
+Available electric bycicles : 1
+Available Mechanic bycicles : 8
+Rents operations : 0
+Return operations : 1
+Total Operations : 1
+Total Average Occupation since last use : 0.7
+Localisation : (2.032398570468661,1.115746225945479)
+
+------------------------------------------------------
+Station 7
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 0
+Available electric bycicles : 0
+Available Mechanic bycicles : 10
+Rents operations : 1
+Return operations : 1
+Total Operations : 2
+Total Average Occupation since last use : 0.832258064516129
+Localisation : (1.4892222902706003,0.048742117069028534)
+
+------------------------------------------------------
+Station 3
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 2
+Available electric bycicles : 5
+Available Mechanic bycicles : 3
+Rents operations : 2
+Return operations : 0
+Total Operations : 2
+Total Average Occupation since last use : 0.990909090909091
+Localisation : (1.4957346529869184,2.785408272207553)
+
+------------------------------------------------------
+Station 4
+Type : Standard
+Status: Online
+Total Capacity : 10
+Free Parking slots : 1
+Available electric bycicles : 1
+Available Mechanic bycicles : 8
+Rents operations : 0
+Return operations : 0
+Total Operations : 0
+This station has never been used. Current occupation rate : 0.9
+Localisation : (3.0603886826679108,0.7736916962164595)
+

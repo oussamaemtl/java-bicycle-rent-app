@@ -1,0 +1,44 @@
+setup paris
+addUser ouss VLIBRE default
+addUser michael VMAX default
+addUser lea NONE default
+addUser chloe VLIBRE default
+rent 1 1 electric default 1
+return 1 10 98 default
+rent 2 2 electric default 1
+return 2 9 98 default
+rent 3 1 electric default 1
+currentStateUser 1 default
+currentStateUser 2 default
+currentStateUser 3 default
+currentStateUser 4 default
+return 3 8 98 default
+displayUser default 1
+displayStation default 1
+currentState default
+displayVelibNet default
+ride chloe 0 0 2.5 3.1 electric default
+rent chloe electric default 100
+return chloe 131 default
+rent 4 1 mechanic default 200
+return 4 2 287
+ride ouss 4 4 1.5 3.1 electric default
+rent ouss electric default 300
+return ouss 500 default
+rent 1 1 mechanic default 520
+return 1 2 587
+ride michael 0 4 3.5 3.1 mechanic default
+rent michael mechanic default 200
+return michael 600 default
+ride lea 1.2 4 1.5 0.1 mechanic default
+rent lea mechanic default 220
+return lea 310 default
+ratio default 1 53 410
+ratio default 4 53 410
+ratio default 7 53 410
+ratio default 2 53 410
+ratio default 8 53 410
+ratio default 10 53 410
+displayVelibNet default
+sortStation default USED
+sortStation default OCCUPIED

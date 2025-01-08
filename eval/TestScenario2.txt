@@ -1,0 +1,44 @@
+setup paris 100 50 10 10000
+setup paris 100 50 10 5000
+setup lyon
+addUser ouss VLIBRE default
+addUser lea NONE paris
+addUser thomas VMAX lyon
+rent 1 1 mechan default 1
+rent 1 1 mechanic paris 1
+rent 1 1 mechanic default 1
+rent 1 1 mechanic default 2
+return 1 1 60 paris
+return 1 1 60 default
+return 1 2 61 default
+sortStation default OCUUPIED
+rent 1 1 mechanic default 50
+rent 1 9 mechanic default 70
+return 1 9 61 default
+return 1 9 80 default
+rent 1 2 mechanic default 81
+return 1 1 82 default
+rent 1 3 mechanic default 91
+return 1 1 92 default
+rent 1 4 mechanic default 101
+return 1 1 102 default
+rent 1 5 mechanic default 111
+return 1 1 112 default
+rent 1 6 mechanic default 121
+return 1 1 122 default
+rent 1 7 mechanic default 131
+return 1 8 132 default
+rent 1 8 mechanic default 141
+return 1 1 142 default
+rent 1 9 mechanic default 151
+return 1 1 152 default
+rent 1 10 mechanic default 161
+return 1 1 162 default
+return 1 10 162 default
+rent 1 1 mechanic default 170
+offline default 1
+addUser oussama NONE default
+rent 1 1 electric default 180
+ratio default 1 95 0
+rent 2 200 mechanic paris 50
+retrun 2 201 55 paris
